@@ -1,0 +1,13 @@
+{
+    "name": "vagrant/laravel_video_optimizer",
+    "type": "library",
+    "require": {
+        "php-ffmpeg/php-ffmpeg": "^0.16.0"
+    },
+    "authors": [
+        {
+            "name": "Jack Woodrow",
+            "email": "jackwoodrow@protonmail.com"
+        }
+    ]
+}
