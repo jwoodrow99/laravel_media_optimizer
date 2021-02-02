@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "36289da0a1c26e339a26c039952c1aa1",
+    "content-hash": "75fda48007c21eb32e401c4dedde1a66",
     "packages": [
         {
             "name": "alchemy/binary-driver",
@@ -680,12 +680,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/support.git",
-                "reference": "6c5a9ef7583d3ecd82a89aea062e9e86e268ba4e"
+                "reference": "4f8b2d2589dec51b3fb9844e35606a1f1a7536e8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/illuminate/support/zipball/6c5a9ef7583d3ecd82a89aea062e9e86e268ba4e",
-                "reference": "6c5a9ef7583d3ecd82a89aea062e9e86e268ba4e",
+                "url": "https://api.github.com/repos/illuminate/support/zipball/4f8b2d2589dec51b3fb9844e35606a1f1a7536e8",
+                "reference": "4f8b2d2589dec51b3fb9844e35606a1f1a7536e8",
                 "shasum": ""
             },
             "require": {
@@ -735,7 +735,7 @@
             ],
             "description": "The Illuminate Support package.",
             "homepage": "https://laravel.com",
-            "time": "2020-10-27T19:16:03+00:00"
+            "time": "2020-10-29T15:17:19+00:00"
         },
         {
             "name": "monolog/monolog",
@@ -743,12 +743,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Seldaek/monolog.git",
-                "reference": "bbe10b1e28aedde9a28bf7b7cedea622ddddc3ba"
+                "reference": "39637a5d0e98068d98189ce48a87f3dd61455429"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Seldaek/monolog/zipball/bbe10b1e28aedde9a28bf7b7cedea622ddddc3ba",
-                "reference": "bbe10b1e28aedde9a28bf7b7cedea622ddddc3ba",
+                "url": "https://api.github.com/repos/Seldaek/monolog/zipball/39637a5d0e98068d98189ce48a87f3dd61455429",
+                "reference": "39637a5d0e98068d98189ce48a87f3dd61455429",
                 "shasum": ""
             },
             "require": {
@@ -806,11 +806,11 @@
                 {
                     "name": "Jordi Boggiano",
                     "email": "j.boggiano@seld.be",
-                    "homepage": "http://seld.be"
+                    "homepage": "https://seld.be"
                 }
             ],
             "description": "Sends your logs to files, sockets, inboxes, databases and various web services",
-            "homepage": "http://github.com/Seldaek/monolog",
+            "homepage": "https://github.com/Seldaek/monolog",
             "keywords": [
                 "log",
                 "logging",
@@ -826,7 +826,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2020-08-23T11:42:45+00:00"
+            "time": "2020-10-29T15:43:01+00:00"
         },
         {
             "name": "nesbot/carbon",

@@ -1,6 +1,6 @@
 <?php
 
-namespace jwoodrow99\laravel_video_optimizer\Jobs;
+namespace jwoodrow99\laravel_media_optimizer\Jobs;
 
 use FFMpeg\Format\Video\X264;
 use Illuminate\Bus\Queueable;

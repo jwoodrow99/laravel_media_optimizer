@@ -1,9 +1,10 @@
 <?php
 
-namespace jwoodrow99\laravel_video_optimizer;
+namespace jwoodrow99\laravel_media_optimizer;
 
 use Illuminate\Support\ServiceProvider;
-use Illuminate\Support\Facades\Route;
+use Illuminate\Foundation\AliasLoader;
+// use ProtoneMedia\LaravelFFMpeg\Support\ServiceProvider;
 
 class LaravelMediaOptimizerServiceProvider extends ServiceProvider
 {
@@ -14,7 +15,8 @@ class LaravelMediaOptimizerServiceProvider extends ServiceProvider
      */
     public function register()
     {
-
+        // $this->app->register(ProtoneMedia\LaravelFFMpeg\Support\ServiceProvider::class);
+        // AliasLoader::getInstance(['FFMpeg' => 'ProtoneMedia\LaravelFFMpeg\Support\FFMpeg']);
     }
 
     /**
